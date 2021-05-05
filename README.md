@@ -13,7 +13,7 @@ JUSTICE
 ![](Justice.png)
 
 TIS-100
-![](TISREDUX.png)
+![](TIS.png)
 
 ### Fonts
 * DEKAI - The dekai rice in the screenshot uses the [Input Mono](https://input.djr.com/) font.
