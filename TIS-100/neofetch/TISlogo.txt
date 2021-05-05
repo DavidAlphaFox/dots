@@ -9,12 +9,12 @@ s-hhhhhhhmMMMMMMNhhhhhhho  y
         s:MMMMMMs  d   1011 d
         s:MMMMMMs  d   1011,d
         s:MMMMMMs  d   ````
-        s:MMMMMMs  d  s0000h d
-        s:MMMMMMs  d  00  00 d
-        s:MMMMMMs  d  00  00 d
-        s:MMMMMMs  d  N0000.,m
+        s:MMMMMMs  d  s000h d
+        s:MMMMMMs  d  00 00 d
+        s:MMMMMMs  d  00 00 d
+        s:MMMMMMs  d  N000.,m
         s:MMMMMMs  d   `````
-        s:MMMMMMs  d  s0000h d
-        s:MMMMMMs  d  00  00 d
-        h.//////-  d  00  00 d
-         Ns///////o   N0000.,m
+        s:MMMMMMs  d  s000h d
+        s:MMMMMMs  d  00 00 d
+        h.//////-  d  00 00 d
+         Ns///////o   N000.,m
