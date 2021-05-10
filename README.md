@@ -15,9 +15,13 @@ JUSTICE
 TIS-100
 ![](TIS.png)
 
+COLLYWOBBLES
+![](Collywobbles.png)
+
 ### Fonts
 * DEKAI - The dekai rice in the screenshot uses the [Input Mono](https://input.djr.com/) font.
 * JUSTICE - The justice rice uses the lemon 8pt font, which I got from [here](https://github.com/Tecate/bitmap-fonts).
 * TIS-100 - The TIS-100 rice uses a DOS VGA font. It is included in it's fonts folder here.
+* COLLYWOBBLES - Collywobbles uses a 9pt bitmapped font named 'boxxy'. It is included in it's folder.
 
 Have fun with em.
